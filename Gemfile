@@ -6,8 +6,10 @@ gem 'figaro'
 gem 'jbuilder', '~> 2.0'
 gem 'pg'
 gem 'puma'
-gem 'rails', '5.1.3'
+gem 'rails', '5.0.4'
 gem 'redis'
+gem 'pundit'
+gem "simple_token_authentication"
 
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass'
